@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "regex": "cpp",
+        "span": "cpp",
+        "chrono": "cpp",
+        "type_traits": "cpp"
+    }
+}
